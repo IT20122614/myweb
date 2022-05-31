@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "af_jwtPrivateKey",
+  "db":"af_dbUrl"
+  
+}

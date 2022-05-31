@@ -1,0 +1,9 @@
+{
+  "name": "default",
+  "db": "mongodb+srv://IT20122096:bolMAEMHnkwrXCyB@itp.02s4w.mongodb.net/research_management?retryWrites=true&w=majority",
+  "jwtPrivateKey": "1234",
+
+  "CLOUDINARY_CLOUD_NAME": "dxhudoopp",
+  "CLOUDINARY_API_KEY": "358544432725968",
+  "CLOUDINARY_API_SECRET": "_TLxgao5Kh7MR2XkEiqZC3jyvOc"
+}

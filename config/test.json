@@ -1,0 +1,5 @@
+{
+  "name": "test",
+  "db": "mongodb+srv://IT20122096:bolMAEMHnkwrXCyB@itp.02s4w.mongodb.net/research_management_test?retryWrites=true&w=majority",
+  "jwtPrivateKey": "1234"
+}
